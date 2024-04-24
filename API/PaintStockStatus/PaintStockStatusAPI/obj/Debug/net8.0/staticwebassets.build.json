@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fTCt1AxGE8ta6l2v/XlWkpxv5BqOGyGFPFWjUA4mYnU=",
+  "Source": "PaintStockStatusAPI",
+  "BasePath": "_content/PaintStockStatusAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
